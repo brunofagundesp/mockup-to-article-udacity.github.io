@@ -1,1 +1,0 @@
-# mockup-to-article-udacity.github.io
